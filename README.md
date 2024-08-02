@@ -8,6 +8,60 @@ This project on the Airline Management System is the automation of the registrat
 ## Airline Employees
 ## Customers/Traveller
 
+
+
+
+
+# Screenshots
+
+## Login Page
+
+![alog](https://github.com/user-attachments/assets/5d830680-c812-4462-b8d0-87acbdfc632e)
+
+
+ ## Home Page
+
+![ahome](https://github.com/user-attachments/assets/357ed3c3-8ea1-4d6b-b8da-597d51637833)
+
+
+## Add customer Details
+
+![addcust](https://github.com/user-attachments/assets/4f46bfdd-ae72-4ec1-8977-00a6a22d8314)
+
+
+## Book Flight
+
+![bookf](https://github.com/user-attachments/assets/5a336d57-52aa-43f3-846e-21955c6512c9)
+
+
+
+## Flight Information
+
+![finfo](https://github.com/user-attachments/assets/ce01da68-2244-4db0-9c48-380e688fee04)
+
+
+## Boarding Pass
+
+![bpass](https://github.com/user-attachments/assets/666a1c9d-16b4-45fc-aeae-e5edca710e62)
+
+
+## PNR Details
+
+![jdetail](https://github.com/user-attachments/assets/75772f1e-2982-4ea7-b0e2-07c03a725dcc)
+
+
+## Cancel Ticket
+
+![ctkt](https://github.com/user-attachments/assets/8e1e1fd1-a526-4cf5-8294-f84f87941cd7)
+
+
+
+
+
+
+
+
+
 ```
 
 Language Used - Java Core 
